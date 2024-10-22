@@ -1,0 +1,11 @@
+<interfaceDefinition version='1.2' language='vhdl' kind='component' name='clk_gen'>
+  <useClause path='ieee.std_logic_1164.all' />
+    <portList>
+
+      <port name='reset' direction='in' type='STD_LOGIC' kind='' />
+      <port name='clk_50MHz' direction='in' type='STD_LOGIC' kind='' />
+      <port name='scl' direction='out' type='STD_LOGIC' kind='' />
+      <port name='dcl' direction='out' type='STD_LOGIC' kind='' />
+
+    </portList>
+</interfaceDefinition>

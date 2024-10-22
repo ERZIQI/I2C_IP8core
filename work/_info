@@ -1,0 +1,199 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera
+Eclk_gen
+Z0 w1717537577
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\HAJJY\Desktop\I2C_IP_PROJECT\I2C_IP
+Z4 8C:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/clk_gen.vhd
+Z5 FC:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/clk_gen.vhd
+l0
+L4
+VdAh5NK==YWCYZQX9][VGB3
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1717538764.007000
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/clk_gen.vhd|
+Z9 !s107 C:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/clk_gen.vhd|
+Z10 o-work work -O0
+Z11 tExplicit 1
+!s100 <Vg[^?HV`@Nm<>aIY>E_J1
+!i10b 1
+Aarch
+R1
+R2
+DEx4 work 7 clk_gen 0 22 dAh5NK==YWCYZQX9][VGB3
+l16
+L10
+VR69lGQk:G>On9?jZnbFda2
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 igNKTf1DPDBm?[R]Y9_fo2
+!i10b 1
+Eclk_gen_tb
+Z12 w1717436491
+R1
+R2
+R3
+Z13 8C:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/clk_gen_tb.vhd
+Z14 FC:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/clk_gen_tb.vhd
+l0
+L3
+Vlm1[9nW25XBz1JPcKN@^F2
+R6
+32
+Z15 !s108 1717538764.077000
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/clk_gen_tb.vhd|
+Z17 !s107 C:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/clk_gen_tb.vhd|
+R10
+R11
+!s100 9;]1ie<jBUePTnolMXRj13
+!i10b 1
+Aclk_gen_tb_arch
+R1
+R2
+DEx4 work 10 clk_gen_tb 0 22 lm1[9nW25XBz1JPcKN@^F2
+l16
+L6
+V>AT^_94l=jObfBL9CX=hf3
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 i_fMFF`6<=@fnJiHnz2[Q1
+!i10b 1
+Eclk_gen_tb_tb
+Z18 w1717424765
+R1
+R2
+R3
+Z19 8clk_gen_tb_tb.vhd
+Z20 Fclk_gen_tb_tb.vhd
+l0
+L3
+VS:15Qb<WSoi`m21n]VR?40
+R6
+32
+Z21 !s108 1717424765.470000
+Z22 !s90 -reportprogress|300|-work|work|clk_gen_tb_tb.vhd|
+Z23 !s107 clk_gen_tb_tb.vhd|
+R10
+R11
+!s100 KT71W1j5fNobh<YA5maK:3
+!i10b 1
+Aclk_gen_tb_tb_arch
+R1
+R2
+DEx4 work 13 clk_gen_tb_tb 0 22 S:15Qb<WSoi`m21n]VR?40
+l9
+L6
+VcjDT8Y3kCiW;glfK<fQg91
+R6
+32
+R21
+R22
+R23
+R10
+R11
+!s100 LWa8ROAVgYKC3e=md<ek?2
+!i10b 1
+Ei2c_master
+Z24 w1717537779
+R1
+R2
+R3
+Z25 8C:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/i2c_master.vhd
+Z26 FC:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/i2c_master.vhd
+l0
+L4
+VihG8aMVJg5a^DZB=z^RMV2
+R6
+32
+Z27 !s108 1717538764.154000
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/i2c_master.vhd|
+Z29 !s107 C:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/i2c_master.vhd|
+R10
+R11
+!s100 W5<;eBVMzCWFM9VhYF?R31
+!i10b 1
+Aarch
+R1
+R2
+DEx4 work 10 i2c_master 0 22 ihG8aMVJg5a^DZB=z^RMV2
+l33
+L12
+VOmmF6bkB3I0?UmY1ceB4N3
+R6
+32
+R27
+R28
+R29
+R10
+R11
+!s100 <5K^W>naAXQ5FQDbEAYVd3
+!i10b 1
+Ei2c_master_tb
+Z30 w1717523728
+R1
+R2
+R3
+Z31 8C:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/i2c_master_tb.vhd
+Z32 FC:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/i2c_master_tb.vhd
+l0
+L3
+V@SU77L1Akei8fa8LVIhkG2
+R6
+32
+Z33 !s108 1717538764.223000
+Z34 !s90 -reportprogress|300|-work|work|C:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/i2c_master_tb.vhd|
+Z35 !s107 C:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/i2c_master_tb.vhd|
+R10
+R11
+!s100 8^f26?Q1MnbMHK31b>b7L1
+!i10b 1
+Ai2c_master_tb_arch
+R1
+R2
+DEx4 work 13 i2c_master_tb 0 22 @SU77L1Akei8fa8LVIhkG2
+l20
+L6
+VSQdUPO6`XzXm[HBo]<6`h3
+!s100 BjbWCkH<i8jW[MF8bH_K<2
+R6
+32
+R33
+R34
+R35
+R10
+R11
+!i10b 1
+Emaster
+w1717510118
+R1
+R2
+R3
+8C:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/Master.vhd
+FC:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/Master.vhd
+l0
+L4
+VTNFR6c34;MUU<cGJFTiH82
+!s100 E:5OobmZiNk_EaPI^>D=m2
+R6
+32
+!i10b 1
+!s108 1717538764.291000
+!s90 -reportprogress|300|-work|work|C:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/Master.vhd|
+!s107 C:/Users/HAJJY/Desktop/I2C_IP_PROJECT/I2C_IP/Master.vhd|
+R10
+R11
